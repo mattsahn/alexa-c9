@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# virtual env folder
+env
+init
+ngrok
+
