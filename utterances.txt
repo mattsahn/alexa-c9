@@ -1,0 +1,9 @@
+nfoIntent tell me about ticker {ticker}
+SecurityInfoIntent get ticker {ticker}
+SecurityInfoIntent retrieve ticker {ticker}
+SecurityInfoIntent look up ticker {ticker}
+MarketUpdateIntent market update
+MarketUpdateIntent what's on the blog
+MarketUpdateIntent what are the latest blog posts
+MarketUpdateIntent latest blackrock stories
+MarketUpdateIntent latest blog stories

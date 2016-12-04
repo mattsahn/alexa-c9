@@ -1,0 +1,3 @@
+welcome: Ask me about a particular security you're interested in, or ask for a market update from the blackrock blog
+
+stockInfo: '{{ticker}} is the stock for {{description}}. It has a P E ratio of {{peRatio}}'

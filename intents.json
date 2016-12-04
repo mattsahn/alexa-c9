@@ -1,0 +1,13 @@
+{
+
+    "intents": [{
+     "intent" : "SecurityInfoIntent",
+      
+      "slots":[{"name":"ticker","type":"TICKER"}]
+    },{
+      "intent" : "MarketUpdateIntent"
+    },{
+      "intent" : "AMAZON.StopIntent"
+    }]
+
+}
