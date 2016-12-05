@@ -1,6 +1,6 @@
 {
     "dev": {
         "app_function": "alexa-blk2.app", 
-        "s3_bucket": "zappa-alexa-c9"
+        "s3_bucket": "zappa-alexa-c9",
     }
 }
